@@ -10,7 +10,6 @@ The following information is intended for MyChart Help Desk staff to support pat
 - Patients who **do not have an activation link or code**
 - Do not recommend self sign up
 - Offer to send an activation link by text or email, or provide the alphanumerical activation code
----
 
 ## How to Sign Up
 
