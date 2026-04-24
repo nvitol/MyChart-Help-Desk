@@ -3,7 +3,8 @@
 ## Who Can Use This
 - Patients **12 years and older**
 - Patients who **do not have an activation link or code**
-
+- Self sign up is NOT recommended due to the probability of creating an unverified account
+- Always offer to send an activation link by text or email, or provide the alphanumerical activation code
 ---
 
 ## How to Sign Up
