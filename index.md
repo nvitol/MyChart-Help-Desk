@@ -95,7 +95,8 @@ This helps protect your account.
 
 ---
 
-## Need Help?
-Contact the Unity Health MyChart Support Team:
-- **Email:** mychartsupport@unityhealth.to
-- **Phone:** 416‑864‑5494
+
+## MyChart Support Contact Information
+
+The Unity Health MyChart Support Team can be contacted by email at mychartsupport@unityhealth.to or by phone at 416-864-5494.
+
