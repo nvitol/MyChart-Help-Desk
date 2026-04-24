@@ -6,13 +6,7 @@ The following information is intended for MyChart Help Desk staff to support pat
 ## MyChart Support Contact Information
 
 The Unity Health MyChart Support Team can be contacted by email at mychartsupport@unityhealth.to or by phone at 416-864-5494.
----
-document_type: tipsheet
-audience: Patients and MyChart Help Desk
-system: Epic MyChart
-organization: Unity Health Toronto
-authoritative: true
-last_reviewed: 2024-10-01
+
 ---
 
 # How to Sign Up for a MyChart Account With an Activation Link or Code
